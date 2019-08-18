@@ -1,0 +1,22 @@
+
+.container{
+    padding: 20px;
+    /* border: 1px solid red;
+       */
+}
+
+#test{
+    border: 1px solid black
+}
+.row{
+    border: 0;
+}
+.col-md-1{
+  
+    text-align: center;
+}
+
+.col-md-2{
+    text-align: center
+}
+
